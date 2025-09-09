@@ -1,0 +1,6 @@
+{
+  "backend-service-url": "http://34.34.221.254:3000",
+  "frontend-service-url": "http://frontend-dot-subm-443506.et.r.appspot.com/",
+  "project-id": "subm-443506",
+  "bucket-name": "ml-putra-bucket"
+}
